@@ -1,8 +1,7 @@
 #BitAuth
 
-* [Website](http://www.dmontgomery.net/bitauth) - http://www.dmontgomery.net/bitauth
-* [Github](https://github.com/danmontgomery/codeigniter-bitauth) - https://github.com/danmontgomery/codeigniter-bitauth
-* [Issues](https://github.com/danmontgomery/codeigniter-bitauth/issues) - https://github.com/danmontgomery/codeigniter-bitauth/issues
+* [Website](http://www.dev.vinoy.com/bitauth) - http://www.dmontgomery.net/bitauth
+* [Github](https://github.com/vinoyphilip/CI-bit-auth)) - https://github.com/vinoyphilip/CI-bit-auth
 
 ##Requirements
 * PHP 5.1.6+, 5.3+ recommended
@@ -24,7 +23,6 @@
 * Text-based roles: Simply list your roles in the configuration file, then check against them in your code. BitAuth handles everything in between.
 
 ##Download
-[https://github.com/danmontgomery/codeigniter-bitauth/tarball/v0.1](https://github.com/danmontgomery/codeigniter-bitauth/tarball/v0.1)
 
 ##Installation
 Copy the included files to their appropriate locations in the application/ folder. Import bitauth.sql into your database. **If you would like to change the names of the tables BitAuth uses, you can change them in this .sql file, and must also change them in config/bitauth.php**.
