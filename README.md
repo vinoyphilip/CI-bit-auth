@@ -1,6 +1,6 @@
 #BitAuth
 
-* [Website](http://www.dev.vinoy.com/bitauth) - http://www.dmontgomery.net/bitauth
+* [Website](http://www.dev.vinoy.com/bitauth) - http://www.dev.vinoy.com/bitauth
 * [Github](https://github.com/vinoyphilip/CI-bit-auth)) - https://github.com/vinoyphilip/CI-bit-auth
 
 ##Requirements
